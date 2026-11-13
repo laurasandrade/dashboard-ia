@@ -5,7 +5,7 @@
 **Todos os dados são sintéticos.** O projeto demonstra o método e os controles; não tira conclusões sobre times reais.
 
 <!-- ATUALIZAR: troque o nome do projeto e os links abaixo -->
-**[Abrir o app](COLE-AQUI-O-LINK)** · **[Vídeo de 2 minutos](COLE-AQUI-O-LINK)**
+**[Abrir o app](https://dashboard-ia-rtovhpy4riv7yp8qnvoaht.streamlit.app/)** · **[Vídeo de 2 minutos](COLE-AQUI-O-LINK)**
 
 ## O problema
 Quem lidera entrega gasta tempo montando relatório, cor de status é opinião e prazo vira uma data única que ninguém sabe o quanto confiar. Quis ver até onde dá para automatizar isso com IA **sem perder a confiança nos números**.
@@ -80,4 +80,4 @@ O app público usa a cota **gratuita** do Gemini, então os recursos de IA são 
 
 ## Sobre
 <!-- ATUALIZAR: nome, cargo, LinkedIn -->
-Projeto de portfólio de [Seu nome] · [LinkedIn](COLE-AQUI-O-LINK)
+Projeto de portfólio de Laura Andrade · [LinkedIn](https://www.linkedin.com/in/lauraandradeweb/)
